@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @mattlakeprgmr
-- 👀 I’m interested in Java, JavaScript, HTML, Python and Kotlin.
-- 🌱 I’m currently learning mobile application development.
-- 💞️ I’m looking to graduate from La Salle University with a degrees in Information Technology and Computer Science.
+- 👋 @mattlakeprgmr
 - 📫 How to reach me matt.lake.x@gmail.com.
 
 <!---
